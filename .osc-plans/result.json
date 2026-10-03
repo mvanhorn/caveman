@@ -1,0 +1,33 @@
+{
+  "status": "ok",
+  "plans_written": 2,
+  "chosen_features": [
+    {
+      "title": "Session token-budget intensity ladder",
+      "plan_file": ".osc-plans/2026-10-02-01-feat-session-token-budget-ladder-plan.md",
+      "deep_rubric_score": 85,
+      "complexity": "M"
+    },
+    {
+      "title": "Install transaction receipt and last-run revert",
+      "plan_file": ".osc-plans/2026-10-02-02-feat-install-transaction-receipt-plan.md",
+      "deep_rubric_score": 82,
+      "complexity": "M"
+    }
+  ],
+  "autonomous_check_inputs": {
+    "PROCESS_LEVEL": "Pull requests welcome; discussion is optional for questions only. No pre-PR discussion gate.",
+    "NO_AI_OPPOSED": true,
+    "NO_COMPETING_PRS": true,
+    "HAS_PRECEDENT": true,
+    "WARMTH_SCORE": 63,
+    "OPEN_PRS_AUTHORED": 1,
+    "REPO_OPEN_PRS_TOTAL": 67,
+    "IS_OWN_PROJECT": false
+  },
+  "social_pass": {
+    "status": "ok",
+    "provenance": "host_handoff"
+  },
+  "proposal_lane": false
+}
